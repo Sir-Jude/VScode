@@ -25,7 +25,7 @@
 | Ctrl + #                      | Switch to the terminal                                |
 | Tab                           | Indent the line of code right                         |
 | Shift + Tab                   | Indent the line of code left                          |
-| Ctrl + Shift + A              | Trasform a whole block of code in a comment           |
+| Ctrl + Shift + A              | Comment-out a whole block of code                     |
 
 
 ## From the Terminal
