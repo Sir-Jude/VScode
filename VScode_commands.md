@@ -1,4 +1,4 @@
-# Useful commands
+# Useful short-keys
 
 ## Everywhere
 | Command | Effect|
@@ -17,6 +17,7 @@
 ## From the Editor
 | Command | Effect |
 | :- | :- |
+| Ctrl
 | Ctrl + O | Open file from your computer |
 | Ctrl + S | Save file |
 | Ctrl + B | Open side bar |
@@ -32,10 +33,5 @@
 | Command | Effect |
 | :- | :- |
 | Ctrl + P | Open file |
-| Ctrl + F | Search the history of Terminal commands |
-| Ctrl + Shift + F | Search the folder |
-| Ctrl + Shift + ´ | Open the Terminal |
-| Ctrl + # | Switch to the Terminal |
+| Ctrl + F | Search the visible history of Terminal commands |
 | Ctrl + Shift + # | Switch to the Editor window |
-| Tab (in the Editor) | Move the line of code right |
-| Shift + Tab (in the Editor) | Move the line left |
