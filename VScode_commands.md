@@ -10,7 +10,6 @@
 | Ctrl + K + O | Open folder |
 | Ctrl + Shift + F | Find in files |
 | Ctrl + Shift + ´ | Open/close the Terminal |
-| Ctrl + Q | Quit VScode |
 
 
 
@@ -22,14 +21,14 @@
 | Ctrl + B | Open side bar |
 | Ctrl + D | Multi-select |
 | Ctrl + F | Search local file |
-| Ctrl + W | Close the working Editor window |
 | Ctrl + # | Switch to Terminal |
 | Tab | Indent the line of code right |
 | Shift + Tab | Indent the line of code left |
 | Ctrl + Shift + A | Comment-out a whole block of code |
 | Ctrl + Shift + V | Open preview of file.md |
 | Ctrl + K V | Open preview of file.md to the side |
-
+| Ctrl + W | Close the working Editor window |
+| Ctrl + Q | Quit VScode |
 
 ## From the Terminal
 | Command | Effect |
