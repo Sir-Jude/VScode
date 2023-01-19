@@ -23,8 +23,9 @@
 | Ctrl + D                      | Multi-select                                          |
 | Ctrl + F                      | Search local file                                     |
 | Ctrl + #                      | Switch to the terminal                                |
-| Tab                           | Move the line of code right                           |
-| Shift + Tab                   | Move the line left                                    |
+| Tab                           | Indent the line of code right                         |
+| Shift + Tab                   | Indent the line of code left                          |
+| Ctrl + Shift + A              | Trasform a whole block of code in a comment           |
 
 
 ## From the Terminal
