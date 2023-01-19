@@ -28,7 +28,7 @@
 | Ctrl + Shift + V | Open preview of file.md |
 | Ctrl + K V | Open preview of file.md to the side |
 | Ctrl + W | Close the working Editor window |
-| Ctrl + Q | Quit VScode |
+| Ctrl + Q | Quit VScode (IMPORTANT: it closes all VSCode windows!)|
 
 ## From the Terminal
 | Command | Effect |
